@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 ----------------------------
 Contact No.:-7001138948
-Email:-trishnabar98@gmail.com
+Email:-trishnabar98@gmail.com/
        bartrishna98@gmail.com
 
 <!---
