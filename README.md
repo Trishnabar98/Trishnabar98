@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trishnabar98
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning .NET
 - 
 - 📫 How to reach me ...
 ----------------------------
